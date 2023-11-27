@@ -2,11 +2,7 @@
 헥사고날 아키텍처 프로젝트 예제
 
 
-
-# 개요 
-
-
-## DDD 와 헥사고날 아키텍처 
+# DDD 와 헥사고날 아키텍처 
 
 ### 헥사고날 아키텍처
 _순수한 도메인 영역과 기술 참조가 가능한 외부영역으로 분리하여 <br>
@@ -21,7 +17,7 @@ https://techblog.woowahan.com/12720/ <br>
 https://www.youtube.com/watch?v=6w7SQ_1aJ0A&t=945s <br>
 https://www.youtube.com/watch?v=4QHvTeeTsj0 <br>
 
-## CQRS 패턴
+# CQRS 패턴
 _데이터수정이 빈번하게 일어나는 command ( CUD )영역과 조회 영역을 분리하여 성능과 보안상 이점을 고려한 패턴_
 
 
